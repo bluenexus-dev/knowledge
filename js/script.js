@@ -8,9 +8,6 @@ const items = [
   { name: "EQUINOX Gigabar MKII COB System Manual", category: "Coding", url: "https://prolight.co.uk/ftp-in/EQLED66_Manual.pdf" },
   { name: "CONTROL2448 Dimmer Master Control Manual", category: "Coding", url: "https://terralec.co.uk/Portals/54/product/images/prd4b805bf4-9841-4757-8738-7401c16a4a34.pdf" },
 ];
-
-  { name: "EQUINOX Gigabar MKII COB System Manual", category: "Lighting", url: "" },
-  { name: "CONTROL2448 Dimmer Master Control Manual", category: "Lighting", url: "" }
   
   // ----------------------
   // Elements
