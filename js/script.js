@@ -3,13 +3,10 @@ document.addEventListener("DOMContentLoaded", () => {
   // Knowledge Base Items
   // ----------------------
 const items = [
-  { name: "Language Specification v0.2.a", category: "Coding", url: "knowledge-base/spec.pdf" }
-];
+  { name: "Language Specification v0.2.a", category: "Coding", url: "knowledge-base/spec.pdf" },
   { name: "eurolite LED SLS-30 COB WW Floor Manual", category: "Lighting", url: "knowledge-base/51915302-manual-127846-1.000-eurolite-led-sls-30-cob-ww-floor-de_en.pdf
-" }
-];
-  { name: "EQUINOX Gigabar MKII COB System Manual", category: "Lighting", url: "https://www.prolight.co.uk/ftp-in/EQLED66_Manual.pdf" }
-];
+" },
+  { name: "EQUINOX Gigabar MKII COB System Manual", category: "Lighting", url: "https://www.prolight.co.uk/ftp-in/EQLED66_Manual.pdf" },
   { name: "CONTROL2448 Dimmer Master Control Manual", category: "Lighting", url: "https://www.terralec.co.uk/Portals/54/product/images/prd4b805bf4-9841-4757-8738-7401c16a4a34.pdf" }
 ];
 
